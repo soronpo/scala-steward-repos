@@ -262,6 +262,7 @@
 - debiki/talkyard
 - delimobil/cabbit
 - DFiantHDL/DFHDL
+- dfiantworks/factum
 - dfiantworks/scalapptainer
 - dieproht/matr
 - dieproht/molly
